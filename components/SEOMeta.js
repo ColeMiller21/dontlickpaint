@@ -4,7 +4,7 @@ import Head from "next/head";
 const defaultFavicon = "/favicon.ico";
 const defaultOGImage = "/its-shit.png";
 const defaultTwitterHandle = "";
-const siteName = "Lick Paint";
+const siteName = "Dont Buy Lick Paint";
 const baseUrl = "https://www.dontbuylickpaint.com/";
 
 const SEOMeta = ({
