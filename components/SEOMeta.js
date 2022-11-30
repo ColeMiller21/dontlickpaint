@@ -2,10 +2,10 @@ import React, { useEffect, useState } from "react";
 import Head from "next/head";
 //
 const defaultFavicon = "/favicon.ico";
-const defaultOGImage = "/it-shit.png";
+const defaultOGImage = "/its-shit.png";
 const defaultTwitterHandle = "";
 const siteName = "Lick Paint";
-const baseUrl = "";
+const baseUrl = "https://www.dontbuylickpaint.com/";
 
 const SEOMeta = ({
   page,
