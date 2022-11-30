@@ -17,7 +17,7 @@ export default function Home() {
           <img
             src="/its-shit.png"
             alt="it's shit"
-            className="absolute bottom-[-15%] right-[-10%] md:bottom-[-10%] md:right-[-15%] h-[40%] w-[40%] lg:bottom-[-10%] lg:right-[-20%]"
+            className="absolute bottom-[-23%] right-[-10%] md:bottom-[-25%] md:right-[-10%] w-[40%] lg:bottom-[-25%] lg:right-[-10%]"
           />
         </div>
         <p className="mt-[3rem] text-[1.25rem] text-white">
